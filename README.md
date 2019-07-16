@@ -1,4 +1,4 @@
 # small_city
 Small city ThreeJs
-npm install
+npm install =>
 gulp dev
